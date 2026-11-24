@@ -1,0 +1,17 @@
+# File sementara
+*.tmp
+*.log
+*.bak
+
+# Folder dependensi
+node_modules/
+venv/
+__pycache__/
+
+# File OS
+.DS_Store
+Thumbs.db
+
+# File editor
+.vscode/
+.idea/
