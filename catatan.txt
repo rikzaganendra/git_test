@@ -1,0 +1,13 @@
+=== Catatan Belajar Git ===
+
+1. git init          -> inisialisasi repo
+2. git add <file>    -> masukkan ke staging area
+3. git commit -m ""  -> simpan ke history
+4. git push          -> kirim ke GitHub
+5. git status        -> cek kondisi repo
+6. git log --oneline -> lihat riwayat commit
+
+Catatan:
+- Pesan commit harus jelas dan deskriptif
+- Selalu cek `git status` sebelum commit
+- Pakai SSH agar tidak perlu password
