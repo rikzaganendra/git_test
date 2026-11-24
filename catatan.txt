@@ -12,3 +12,7 @@ Catatan:
 - Selalu cek `git status` sebelum commit
 - Pakai SSH agar tidak perlu password
 Baris baru ditambahkan.
+
+=== Tambahan Latihan ===
+4. git commit --wait  -> commit pakai editor VS Code
+5. git push           -> kirim ke GitHub
