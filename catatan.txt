@@ -11,3 +11,4 @@ Catatan:
 - Pesan commit harus jelas dan deskriptif
 - Selalu cek `git status` sebelum commit
 - Pakai SSH agar tidak perlu password
+Baris baru ditambahkan.
